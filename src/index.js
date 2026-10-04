@@ -4,3 +4,5 @@ function sayHi(name) {
 }
 
 module.exports = sayHi
+
+// Adding a comment to test out the new ruleset
